@@ -4,5 +4,7 @@ NodeJS K3 Thermometer Data Reader, tested on K3 device not K3 Pro<br/> https://w
 change device connection port on app.js line 5 "/dev/ttyUSB0" to yours
 # Installation
 npm install
+# Run
+node app.js
 # Test
 Scan your temperature and check if the temperature.txt file is updated
