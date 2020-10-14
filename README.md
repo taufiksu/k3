@@ -8,3 +8,5 @@ npm install
 node app.js
 # Test
 Scan your temperature and check if the temperature.txt file is updated
+# Schematic Design
+![alt tag](https://github.com/NowDB/k3/raw/main/K3.png)
